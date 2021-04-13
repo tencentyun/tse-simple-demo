@@ -1,0 +1,20 @@
+server:
+  port: 19002
+spring:
+  application:
+    name: zookeeper-config-demo
+  cloud:
+    zookeeper:
+      enabled: true  # true:开启zookeeper外部化配置, false:读取本地配置;
+      connect-string: localhost:2181
+      config:
+        root: config
+        enabled: true
+        watcher:
+          enabled: false
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: refresh,health

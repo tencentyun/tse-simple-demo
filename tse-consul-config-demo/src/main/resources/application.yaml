@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: consul-config-demo
+server:
+  port: 18085

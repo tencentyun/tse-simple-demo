@@ -1,0 +1,27 @@
+/Startup*.log
+/Startup.log
+/target
+/.project
+/.settings
+/.classpath
+*.iml
+.idea/
+/*/Startup.log
+/*/Startup*.log
+/*/Startup.log
+/*/target
+/*/.project
+/*/.settings
+/*/.classpath
+/*/*.iml
+/*/.idea/
+*.log
+jars/
+# Mac-specific directory that no other operating system needs.
+.DS_Store
+
+/**/rebel.xml
+
+tags
+Makefile
+

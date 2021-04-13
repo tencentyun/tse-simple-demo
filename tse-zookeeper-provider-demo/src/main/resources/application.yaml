@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: zookeeper-demo-provider
+  cloud:
+    zookeeper:
+      connect-string: localhost:2181
+      discovery:
+        register: true
+        enabled: true
+logging:
+  level:
+    org.apache.zookeeper.ClientCnxn: WARN
+
+server:
+  port: 19000
