@@ -9,7 +9,7 @@
 		<groupId>org.example</groupId>
 		<version>1.0-SNAPSHOT</version>
 	</parent>
-	<artifactId>tse-dubbo-zookeeper-consumer</artifactId>
+	<artifactId>tse-dubbo-zookeeper-consumer-demo</artifactId>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>

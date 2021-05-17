@@ -33,8 +33,8 @@
         <module>tse-zookeeper-provider-demo</module>
         <module>tse-zookeeper-consumer-demo</module>
         <module>tse-dubbo-zookeeper-api</module>
-        <module>tse-dubbo-zookeeper-provider</module>
-        <module>tse-dubbo-zookeeper-consumer</module>
+        <module>tse-dubbo-zookeeper-provider-demo</module>
+        <module>tse-dubbo-zookeeper-consumer-demo</module>
     </modules>
 
     <dependencies>
