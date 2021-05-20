@@ -7,6 +7,7 @@ spring:
       discovery:
         register: true
         enabled: true
+        prefer-ip-address: true
 logging:
   level:
     org.apache.zookeeper.ClientCnxn: WARN
