@@ -35,6 +35,8 @@
         <module>tse-dubbo-zookeeper-api</module>
         <module>tse-dubbo-zookeeper-provider-demo</module>
         <module>tse-dubbo-zookeeper-consumer-demo</module>
+        <module>tse-nacos-spring-cloud-provider-demo</module>
+        <module>tse-nacos-spring-cloud-consumer-demo</module>
     </modules>
 
     <dependencies>
