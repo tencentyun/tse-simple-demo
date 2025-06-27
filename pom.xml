@@ -17,7 +17,7 @@
 
     <properties>
         <curator-framework.version>4.0.1</curator-framework.version>
-        <zookeeper.version>3.4.13</zookeeper.version>
+        <zookeeper.version>3.7.2</zookeeper.version>
         <dubbo.starter.version>0.2.0</dubbo.starter.version>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
